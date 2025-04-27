@@ -5,6 +5,12 @@
 
 ---
 
+## 🎉 Built for: [Cystar 24-Hour Hackathon, IIT Madras (CS Exebit 2025)](https://unstop.com/hackathons/cystar-24-hour-hackathon-cs-exebit-2025-iit-madras-1469132)
+
+AegisID-Hedera was conceptualized, built, and deployed as part of the **Cystar 24-Hour Hackathon** conducted at **IIT Madras, Chennai** under the **CS Exebit 2025** tech festival.
+
+The hackathon focused on **Distributed Ledger Technologies (DLTs)** and this project aims to tackle decentralized identity management through a scalable, gas-optimized, and modular fullstack setup on the **Hedera network**.
+
 AegisID-Hedera is a fullstack blockchain starter kit to **publish and manage DIDs (Decentralized Identifiers)** on the **Hedera** network using **Solidity Smart Contracts** and **Node.js** scripts.
 
 This project is built to be **real-world ready** — modular, scalable, and production deployable.  
